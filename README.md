@@ -1,28 +1,46 @@
-### ¡Hola! Soy Álvaro 👋
+# Hola, soy Álvaro López de San Román
 
-<p>
-  Soy estudiante de primer año de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en la Escuela Universitaria EUSA de Sevilla.
-</p>
-
-Me considero una persona **dedicada, detallista y un gran compañero de equipo**. Siempre me esfuerzo por dar el máximo en cada proyecto, con el objetivo de que el resultado no sea solo funcional, sino que esté pulido y sea de 10/10.
+### 🎓 Estudiante de DAM (EUSA) | Especialista en Automatización & IA
+Proactivo, detallista y enfocado en entregar resultados que no solo funcionen, sino que rocen la perfección. Actualmente cursando el Grado Superior de **Desarrollo de Aplicaciones Multiplataforma** y especializado en el ecosistema de la Inteligencia Artificial a través del programa **UDIA**.
 
 ---
 
-#### 💻 Habilidades y Tecnologías
+## 🛠️ Stack Tecnológico
 
-* 🌐 **Desarrollo Web:** HTML5 | CSS3
-* 🗂️ **Ofimática:** Dominio de Microsoft Office (Word, Excel, PowerPoint) y Google Workspace.
-* 🤝 **Habilidades Blandas:** Trabajo en equipo, proactividad y atención al detalle.
+### 🌐 Desarrollo Web & Software
+* **Frontend:** HTML5 | CSS3 (Maquetación avanzada y responsive)
+* **Lógica:** JavaScript (En aprendizaje activo)
+* **Herramientas:** Git, GitHub, VS Code, Google Workspace
+
+### 🤖 Inteligencia Artificial & Automatización (Especialidad UDIA)
+* **Ingeniería de Prompts:** Dominio de técnicas *Few-Shot*, *Chain-of-Thought* e iteración avanzada para LLMs (GPT-4o, Claude).
+* **Automatización:** Diseño de flujos de trabajo complejos en **n8n** y **Make** (Conexión de APIs y Webhooks).
+* **Ciberseguridad en IA:** Implementación de *Safety Prompts* contra Prompt Hacking e inyecciones de código.
+* **Voz & Audio:** Configuración de asistentes inteligentes mediante **VAPI**.
 
 ---
 
-#### 🌱 Actualmente...
+## 🚀 Proyectos en el Radar
 
-* Estoy consolidando mis conocimientos en maquetación web.
-* ¡Empezando a explorar JavaScript!
+* **SouthIA Viral:** Micro-SaaS desarrollado para la creación automatizada de guiones y estrategias de contenido viral mediante IA.
+* **AI Local Solutions:** Implementación de agentes inteligentes para la optimización de ventas en negocios locales (Bodegas, Centros Deportivos).
 
 ---
 
-#### 📫 ¿Conectamos?
+## 🌱 Actualmente...
 
-* <strong>Email:</strong> alvarolopezdesanroman@gmail.com
+* Consolidando conocimientos en **maquetación web semántica**.
+* Explorando la integración de **APIs de OpenAI** en aplicaciones reales.
+* Buscando transformar problemas complejos en **MVPs (Minimum Viable Products)** escalables.
+
+---
+
+## 📫 ¿Conectamos?
+
+* **Email:** [alvarolopezdesanroman@gmail.com](mailto:alvarolopezdesanroman@gmail.com)
+* **LinkedIn:** 
+* **Ubicación:** Sevilla, España
+
+---
+
+> "Mi objetivo no es solo que el código compile, sino que la solución sea de 10/10."
