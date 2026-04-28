@@ -17,22 +17,7 @@ Proactivo, detallista y enfocado en entregar resultados que no solo funcionen, s
 * **Automatización:** Diseño de flujos de trabajo complejos en **n8n** y **Make** (Conexión de APIs y Webhooks).
 * **Ciberseguridad en IA:** Implementación de *Safety Prompts* contra Prompt Hacking e inyecciones de código.
 * **Voz & Audio:** Configuración de asistentes inteligentes mediante **VAPI**.
-
----
-
-## 🚀 Proyectos en el Radar
-
-* **SouthIA Viral:** Micro-SaaS desarrollado para la creación automatizada de guiones y estrategias de contenido viral mediante IA.
-* **AI Local Solutions:** Implementación de agentes inteligentes para la optimización de ventas en negocios locales (Bodegas, Centros Deportivos).
-
----
-
-## 🌱 Actualmente...
-
-* Consolidando conocimientos en **maquetación web semántica**.
-* Explorando la integración de **APIs de OpenAI** en aplicaciones reales.
-* Buscando transformar problemas complejos en **MVPs (Minimum Viable Products)** escalables.
-
+  
 ---
 
 ## 📫 ¿Conectamos?
