@@ -40,7 +40,7 @@ Trabajo tanto en el diseño de bases de datos y lógica de backend como en la co
 <div align="center">
 
 <a href="mailto:alvarolopezdesanroman@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-<a href="#"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 
 **Ubicación:** Sevilla, España
