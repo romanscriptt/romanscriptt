@@ -10,7 +10,7 @@ Trabajo tanto en el diseño de bases de datos y lógica de backend como en la co
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,java,flutter,mysql,git,github,vscode,visualstudio,docker" height="60"/>
+<img src="https://skillicons.dev/icons?i=html,css,java,flutter,mysql,git,github,vscode,visualstudio,docker,unity" height="60"/>
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="60"/>
 <img src="https://cdn.simpleicons.org/anthropic/D97757" height="60"/>
 <img src="https://cdn.simpleicons.org/make/6D00CC" height="60"/>
